@@ -1,1 +1,0 @@
-This is a Node Hero tutorial from Rising Stack
